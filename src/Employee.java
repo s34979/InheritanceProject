@@ -11,6 +11,10 @@ public class Employee
       this.lastName=lastName;
       this.baseSalary=baseSalary;
   }
+  public double calculateMonthlyCost()
+  {
+      return baseSalary;
+  }
   public final String getEmployeeId()
   {
       return employeeId;

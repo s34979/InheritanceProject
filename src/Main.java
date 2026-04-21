@@ -23,5 +23,6 @@ public class Main {
 
         System.out.println(e2.equals(new Tester("E-201", "Other", "Data", 9000.0, false, 10)));
         System.out.println(e2);
+        //Task 5 implementation
     }
 }
